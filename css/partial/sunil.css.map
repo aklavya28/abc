@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAM;EACF,UAAU,EAAE,KAAK",
+"sources": ["../../scss/partial/sunil.scss"],
+"names": [],
+"file": "sunil.css"
+}
